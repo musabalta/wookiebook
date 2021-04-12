@@ -8745,11 +8745,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musab\\source\\repos\\WookieBooksApp\\WookieBooksApp\\WookieBooksApp.csproj",
+      "projectUniqueName": "C:\\Development\\WookieBookApp\\WookieBooksApp\\WookieBooksApp.csproj",
       "projectName": "WookieBooksApp",
-      "projectPath": "C:\\Users\\musab\\source\\repos\\WookieBooksApp\\WookieBooksApp\\WookieBooksApp.csproj",
+      "projectPath": "C:\\Development\\WookieBookApp\\WookieBooksApp\\WookieBooksApp.csproj",
       "packagesPath": "C:\\Users\\musab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musab\\source\\repos\\WookieBooksApp\\WookieBooksApp\\obj\\",
+      "outputPath": "C:\\Development\\WookieBookApp\\WookieBooksApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

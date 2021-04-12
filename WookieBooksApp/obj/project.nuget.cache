@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "meukOKNBbmvrPcEdMa30P7Uoo5t7lQpy1LQA+x5yjBRM1UJRQYNN13BrLLoaKSgClle9yxOH8NgvWtyx/jyJzg==",
+  "dgSpecHash": "4eu8Zp5bC3VDHsDeWBWLtua9ijmUVUt4LDIjalrUmBmjNW/5R522oEjinEmbPuubRv6k8NmKDNthI6lfsrw59g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\musab\\source\\repos\\WookieBooksApp\\WookieBooksApp\\WookieBooksApp.csproj",
+  "projectFilePath": "C:\\Development\\WookieBookApp\\WookieBooksApp\\WookieBooksApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\musab\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\musab\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
